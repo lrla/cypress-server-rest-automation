@@ -1,0 +1,17 @@
+{  "pluginsFile": "cypress/plugins/index.js",
+    "reporter": "mochawesome",
+    "projectId": "z4w5ix",
+    "reporterOptions": {
+       "reportDir": "cypress/results",
+       "overwrite": true,
+       "html": true,
+       "json": false,
+       "charts": true,
+       "showPassed": true,
+       "showFailed": true,
+       "timestamp": "mmddyyyy_HHMMss"
+    },
+    "screenshotsFolder": "cypress/results",
+    "videosFolder": "cypress/results"
+}
+ 
